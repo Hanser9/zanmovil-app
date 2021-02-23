@@ -1,0 +1,25 @@
+{
+  "name": "ZanmovilApp",
+  "displayName": "ZanmovilApp",
+  "expo": {
+    "name": "ZanmovilApp",
+    "slug": "ZanmovilApp",
+    "version": "1.0.0",
+    "icon": "./src/images/icono.png",
+    "splash": {
+      "image": "./src/images/icono.png",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "bundleIdentifier": "com.neptools.comercializadora",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.neptools.comercializadora",
+      "versionCode": 1
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]    
+  }
+}
